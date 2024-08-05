@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "hisenser"
+version = "1.0.0"
+description = "MQTT client for Hisense TVs"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+paho-mqtt = "^1.6.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
