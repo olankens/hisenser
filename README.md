@@ -23,7 +23,7 @@ Reverse engineered MQTT client for Hisense TVs.
 
 # <samp>GUIDANCE</samp>
 
-### Import the Library
+### Import the library
 
 ```shell
 poetry add git+https://github.com/olankens/hisenser.git
