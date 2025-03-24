@@ -1,6 +1,7 @@
 # <samp>OVERVIEW</samp>
 
 Reverse engineered MQTT client for Hisense TVs.
+Uses a certificate and private key to bypass broker authentication.
 
 <table>
   <tr align="center">
