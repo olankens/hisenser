@@ -23,13 +23,13 @@ Reverse engineered MQTT client for Hisense TVs (VIDAA only), it uses dummy certi
 
 # <samp>GUIDANCE</samp>
 
-## <samp>IMPORT LIBRARY</samp>
+## Import library
 
 ```shell
 poetry add git+https://github.com/olankens/hisenser.git
 ```
 
-## <samp>CHANGE CURRENT PICTURE MODE</samp>
+## Change current mode
 
 Sadly, there is no way to determine the current mode.
 
