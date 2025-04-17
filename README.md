@@ -1,7 +1,13 @@
 # <samp>OVERVIEW</samp>
 
-Reverse engineered MQTT client for Hisense TVs (VIDAA only), it uses dummy certificate and private key to foolish the broker authentication.
+Reverse engineered MQTT client for Hisense TVs.
 
+It helps me setting up my picture profiles (SDR, HDR10, HDR+ and DOVI) after each firware update.
+It uses dummy certificate and private key to foolish the broker authentication, some models require permission via OTP.
+
+It's an extremely naive solution, do not use it in production.
+
+<!--
 <table>
   <tr align="center">
     <th><samp>AND</samp></th>
@@ -20,6 +26,7 @@ Reverse engineered MQTT client for Hisense TVs (VIDAA only), it uses dummy certi
     <td width="9999">🟥</td>
   </tr>
 </table>
+-->
 
 # <samp>GUIDANCE</samp>
 
