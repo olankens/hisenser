@@ -7,7 +7,6 @@ It uses dummy certificate and private key to foolish the broker authentication, 
 
 It's an extremely naive solution, do not use it in production.
 
-<!--
 <table>
   <tr align="center">
     <th><samp>AND</samp></th>
@@ -26,7 +25,6 @@ It's an extremely naive solution, do not use it in production.
     <td width="9999">🟥</td>
   </tr>
 </table>
--->
 
 # <samp>GUIDANCE</samp>
 
