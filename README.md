@@ -23,7 +23,7 @@ Reverse engineered MQTT client for Hisense TVs.
 
 # <samp>FEEDBACK</samp>
 
-It helps me setting up my picture profiles (SDR, HDR10, HDR+ and DOVI) after each firware update. It uses dummy certificate and private key to foolish the broker authentication, some TV models require permission via OTP. It's an extremely naive solution, do not use it in production.
+Helps me setting up my picture profiles (SDR, HDR10, HDR+ and DOVI) after each firware update. It uses dummy certificate and private key to foolish the broker authentication, some TV models require permission via OTP. It's an extremely naive solution, do not use it in production.
 
 # <samp>GUIDANCE</samp>
 
