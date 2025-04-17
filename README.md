@@ -7,7 +7,7 @@ It uses dummy certificate and private key to foolish the broker authentication, 
 
 It was tested on Linux, macOS and Windows.
 
-**It's an extremely naive solution, do not use it in production.**
+It's an extremely naive solution, do not use it in production.
 
 # <samp>GUIDANCE</samp>
 
