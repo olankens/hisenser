@@ -1,6 +1,6 @@
 # <samp>OVERVIEW</samp>
 
-Reverse engineered MQTT client for Hisense TVs.
+Reversed MQTT client for Hisense TVs.
 
 <table>
   <tr align="center">
@@ -27,13 +27,13 @@ Helps me setting up my picture profiles (SDR, HDR10, HDR+ and DOVI) after each f
 
 # <samp>GUIDANCE</samp>
 
-### <samp>IMPORT LIBRARY</smap>
+### Import library
 
 ```shell
 poetry add git+https://github.com/olankens/hisenser.git
 ```
 
-### <samp>CHANGE CURRENT MODE</smap>
+### Change current mode
 
 Sadly, there is no way to determine the current mode.
 
