@@ -15,7 +15,6 @@
 
 ```shell
 poetry add git+https://github.com/olankens/hisenser.git
-
 ```
 
 <hr>
