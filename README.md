@@ -1,11 +1,14 @@
-<p align="center"><img src=".assets/icon.svg" width="128"></p>
+<hr>
 
-<h1 align="center"><samp>HISENSER</samp></h1>
-<p align="center">Reverse engineered MQTT client for Hisense TVs that helps you automatically set up picture profiles (SDR, HDR10, HDR+, and DOVI) after each firmware upgrade. This library uses a dummy certificate and private key to bypass broker authentication. Some TV models may require OTP-based permission.</p>
+<div align="center">
+  <img src=".assets/icon.svg" width="128">
+  <h1><samp>HISENSER</samp></h1>
+  <p>Reverse engineered MQTT client for Hisense TVs that helps you automatically set up picture profiles (SDR, HDR10, HDR+, and DOVI) after each firmware upgrade. This library uses a dummy certificate and private key to bypass broker authentication. Some TV models may require OTP-based permission.</p>
+</div>
 
 <hr>
 
-<h3 align="center">Import Library</h3>
+### Import Library
 
 ```shell
 poetry add git+https://github.com/olankens/hisenser.git
@@ -13,7 +16,7 @@ poetry add git+https://github.com/olankens/hisenser.git
 
 <hr>
 
-<h3 align="center">Change Current Mode</h3>
+### Change Current Mode
 
 ```python
 with (client := Client(input("enter television ip address: ").strip(), foolish=True, secured=True)):
@@ -36,3 +39,5 @@ with (client := Client(input("enter television ip address: ").strip(), foolish=T
     client.change_gamma_adjustment(GammaAdjustment.GAMMA_2_2)
     client.toggle_viewing_angle()
 ```
+
+<hr>
