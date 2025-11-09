@@ -1,12 +1,6 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".assets/icon-dark.png">
-    <img src=".assets/icon-light.png" width="144">
-  </picture>
-</p>
+<p align="center"><img src=".assets/icon.svg" width="128"></p>
 
 <h1 align="center"><samp>HISENSER</samp></h1>
-
 <p align="center">Reverse engineered MQTT client for Hisense TVs that helps you automatically set up picture profiles (SDR, HDR10, HDR+, and DOVI) after each firmware upgrade. This library uses a dummy certificate and private key to bypass broker authentication. Some TV models may require OTP-based permission.</p>
 
 <hr>
