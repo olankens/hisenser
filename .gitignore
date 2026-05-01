@@ -1,0 +1,16 @@
+# JetBrains
+.idea/
+
+# MacOS
+.DS_Store
+
+# Node
+node_modules/
+package-lock.json
+
+# Python
+.venv/
+dist/
+
+# Vscode
+.vscode/
