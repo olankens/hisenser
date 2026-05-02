@@ -8,7 +8,7 @@
 
 <table><tr><td align="center">
 
-<table><td align="center" width="9999">
+<table><td align="center" width="">
   &nbsp;<p><img src="https://github.com/olankens/logobase/raw/HEAD/.github/assets/icon.svg" align="center" width="128"/></p>
   <h1>LOGOBASE</h1>
   &nbsp;<p>
