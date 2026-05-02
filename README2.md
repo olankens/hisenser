@@ -9,20 +9,11 @@
 <table><tr><td align="center">
   &nbsp;<p><img src="https://github.com/olankens/logobase/raw/HEAD/.github/assets/icon.svg" align="center" width="128"/></p>
   <h1>LOGOBASE</h1>
+  <p><a href="#">Website</a> · <a href="#">Documentation</a> · <a href="#">Discord</a></p>
   <tr><td align="center">
     &nbsp;<p>Technology logo pack intended for very seamless integration into README.md files or visual assets such as LinkedIn banners, provided in both dark and light variants for optimal flexibility and consistency.</p>&nbsp;
   </td></tr>
 </td></tr></table>
-
-<table><td align="center" width="">
-  &nbsp;<p><img src="https://github.com/olankens/logobase/raw/HEAD/.github/assets/icon.svg" align="center" width="128"/></p>
-  <h1>LOGOBASE</h1>
-  &nbsp;<p>
-    Technology logo pack intended for very seamless integration into README.md files or visual assets such as LinkedIn banners, provided in both dark and light variants for optimal flexibility and consistency.
-  </p>&nbsp;
-</td></tr></table>
-
-</td></table>
 
 ### Logo Collection
 
