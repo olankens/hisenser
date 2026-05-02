@@ -19,12 +19,12 @@
 
 <table>
   <tbody><tr>
-    <th align="center" width="9999"><samp>AND</samp></th>
-    <th align="center" width="9999"><samp>IOS</samp></th>
-    <th align="center" width="9999"><samp>LIN</samp></th>
-    <th align="center" width="9999"><samp>MAC</samp></th>
-    <th align="center" width="9999"><samp>WIN</samp></th>
-    <th align="center" width="9999"><samp>WEB</samp></th>
+    <th align="center" width="9999"><code>AND</code></th>
+    <th align="center" width="9999"><code>IOS</code></th>
+    <th align="center" width="9999"><code>LIN</code></th>
+    <th align="center" width="9999"><code>MAC</code></th>
+    <th align="center" width="9999"><code>WIN</code></th>
+    <th align="center" width="9999"><code>WEB</code></th>
   </tr></tbody>
   <tbody><tr>
     <td align="center" height="50">&nbsp;🟥&nbsp;</td>
