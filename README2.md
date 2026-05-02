@@ -1,5 +1,5 @@
 <div align="center">
-  <p><img src="https://github.com/olankens/logobase/raw/HEAD/.github/assets/icon.svg" align="center" width="128"/></p>
+  <p><img src="https://github.com/olankens/logobase/raw/HEAD/.github/assets/icon.svg" align="" width="128"/></p>
   <h1>LOGOBASE</h1>
 </div>
 
