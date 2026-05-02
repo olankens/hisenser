@@ -26,7 +26,7 @@
     <th align="center" width="9999"><code>WIN</code></th>
     <th align="center" width="9999"><code>WEB</code></th>
   </tr></tbody>
-  <tbody><tr>
+  <tbody><tr height="50">
     <td align="center"><p>🟥</p></td>
     <td align="center"><p>🟥</p></td>
     <td align="center"><p>🟩</p></td>
