@@ -8,10 +8,9 @@
 
 <table><tr><td align="center">
   <h1>LOGOBASE</h1>
-  <table><tr><td align="center" width="99%">
+  <table><tr><td align="center">
     Technology logo pack intended for very seamless integration into README.md files or visual assets such as LinkedIn banners, provided in both dark and light variants for optimal flexibility and consistency.
   </td></tr></table>
-
 </td></tr></table>
 
 <table><td align="center" width="">
