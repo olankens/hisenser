@@ -6,9 +6,9 @@
 
 [//]: # (</div>)
 
-<table><tr width="9999"><td align="center" width="9999">
+<table><tr><td align="center">
 
-<table><tr><td align="center" width="9999">
+<table><td align="center" width="9999">
   &nbsp;<p><img src="https://github.com/olankens/logobase/raw/HEAD/.github/assets/icon.svg" align="center" width="128"/></p>
   <h1>LOGOBASE</h1>
   &nbsp;<p>
@@ -16,7 +16,7 @@
   </p>&nbsp;
 </td></tr></table>
 
-</td></tr></table>
+</td></table>
 
 ### Logo Collection
 
