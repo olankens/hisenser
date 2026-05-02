@@ -27,7 +27,7 @@
     <th align="center" width="9999"><code>WEB</code></th>
   </tr></tbody>
   <tbody><tr>
-    <td align="center" height="50"><p>🟥</p></td>
+    <td align="center" height="172"><p>🟥</p></td>
     <td align="center"><p>🟥</p></td>
     <td align="center"><p>🟩</p></td>
     <td align="center"><p>🟩</p></td>
