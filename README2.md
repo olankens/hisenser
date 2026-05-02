@@ -15,6 +15,27 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/kofi-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/kofi-light.png" align="center" width="48"/></picture>
 </td></tr></table>
 
+### Platform Support
+
+<table>
+  <tr>
+    <th align="center" width="9999"><samp>AND</samp></th>
+    <th align="center" width="9999"><samp>IOS</samp></th>
+    <th align="center" width="9999"><samp>LIN</samp></th>
+    <th align="center" width="9999"><samp>MAC</samp></th>
+    <th align="center" width="9999"><samp>WIN</samp></th>
+    <th align="center" width="9999"><samp>WEB</samp></th>
+  </tr>
+  <tr>
+    <td align="center" height="50">&nbsp;<p>🟥</p>&nbsp;</td>
+    <td align="center">&nbsp;<p>🟥</p>&nbsp;</td>
+    <td align="center">&nbsp;<p>🟩</p>&nbsp;</td>
+    <td align="center">&nbsp;<p>🟩</p>&nbsp;</td>
+    <td align="center">&nbsp;<p>🟩</p>&nbsp;</td>
+    <td align="center">&nbsp;<p>🟥</p>&nbsp;</td>
+  </tr>
+</table>
+
 ### Logo Collection
 
 <!-- START_TABLE -->

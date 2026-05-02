@@ -1,18 +1,13 @@
 <div align="center">
-  <p><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/hisenser/raw/HEAD/.github/assets/logo-dark.png">
-    <img src="https://github.com/olankens/hisenser/raw/HEAD/.github/assets/logo-light.png" align="center" width="128"/>
-  </picture></p>
+  <p><img src="https://github.com/olankens/hisenser/raw/HEAD/.github/assets/logo-light.png" align="center" width="128"/></p>
   <h1>HISENSER</h1>
 </div>
 
-<table>
-  <tr><td align="center" width="9999">
-    &nbsp;
-    <p>Automate Hisense TV picture profile setup for SDR, HDR10, HDR+, and Dolby Vision via reverse engineered MQTT client with dummy certificate to bypass broker authentication. Some models need OTP permission.</p>
-    &nbsp;
-  </td></tr>
-</table>
+<table><tr><td align="center" width="9999">
+  &nbsp;<p>
+    Python library for Hisense U7QF TV that automates picture profile setup for SDR, HDR10, HDR+, and Dolby Vision via reverse engineered MQTT client with dummy certificate to bypass broker authentication.
+  </p>&nbsp;
+</td></tr></table>
 
 <table><tr><td align="center" height="72" width="9999">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/hisenser/raw/HEAD/.github/assets/mqtt-dark.png"><img src="https://github.com/olankens/hisenser/raw/HEAD/.github/assets/mqtt-light.png" align="center" width="48"/></picture>
