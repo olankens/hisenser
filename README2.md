@@ -7,6 +7,8 @@
   &nbsp;<p>Technology logo pack intended for very seamless integration into README.md files or visual assets such as LinkedIn banners, provided in both dark and light variants for optimal flexibility and consistency.</p>&nbsp;
 </td></tr></table>
 
+## OVERVIEW
+
 ### Logo Collection
 
 <!-- START_TABLE -->
@@ -53,6 +55,8 @@
   </tr></tbody>
 </table>
 <!-- CEASE_TABLE -->
+
+## GUIDANCE
 
 ### Create Markdown Banner
 
