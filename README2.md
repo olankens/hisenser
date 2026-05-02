@@ -4,16 +4,7 @@
     <td width="9999">
       <table>
         <tr>
-          <td width="">Cell 1</td>
-        </tr>
-        <tr>
-          <td>Cell 2</td>
-        </tr>
-        <tr>
-          <td>Cell 3</td>
-        </tr>
-        <tr>
-          <td>Cell 4</td>
+          <td width="999">Cell 1</td>
         </tr>
       </table>
     </td>
