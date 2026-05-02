@@ -27,12 +27,12 @@
     <th align="center" width="9999"><code>WEB</code></th>
   </tr></tbody>
   <tbody><tr>
-    <td align="center">🟥&nbsp;</td>
-    <td align="center">🟥&nbsp;</td>
-    <td align="center">🟩&nbsp;</td>
-    <td align="center">🟩&nbsp;</td>
-    <td align="center">🟩&nbsp;</td>
-    <td align="center">🟥&nbsp;</td>
+    <td align="center"><p>🟥</p></td>
+    <td align="center"><p>🟥</p></td>
+    <td align="center"><p>🟩</p></td>
+    <td align="center"><p>🟩</p></td>
+    <td align="center"><p>🟩</p></td>
+    <td align="center"><p>🟥</p></td>
   </tr></tbody>
 </table>
 
