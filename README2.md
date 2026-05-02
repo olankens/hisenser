@@ -4,7 +4,7 @@
     <td width="9999">
       <table>
         <tr>
-          <td width="999">Cell 1</td>
+          <td width="">Technology logo pack intended for very seamless integration into README.md files or visual assets such as LinkedIn banners, provided in both dark and light variants for optimal flexibility and consistency.</td>
         </tr>
       </table>
     </td>
