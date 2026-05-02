@@ -18,22 +18,22 @@
 ### Platform Support
 
 <table>
-  <tr>
+  <tbody><tr>
     <th align="center" width="9999"><samp>AND</samp></th>
     <th align="center" width="9999"><samp>IOS</samp></th>
     <th align="center" width="9999"><samp>LIN</samp></th>
     <th align="center" width="9999"><samp>MAC</samp></th>
     <th align="center" width="9999"><samp>WIN</samp></th>
     <th align="center" width="9999"><samp>WEB</samp></th>
-  </tr>
-  <tr>
-    <td align="center" height="50">&nbsp;<p>🟥</p>&nbsp;</td>
-    <td align="center">&nbsp;<p>🟥</p>&nbsp;</td>
-    <td align="center">&nbsp;<p>🟩</p>&nbsp;</td>
-    <td align="center">&nbsp;<p>🟩</p>&nbsp;</td>
-    <td align="center">&nbsp;<p>🟩</p>&nbsp;</td>
-    <td align="center">&nbsp;<p>🟥</p>&nbsp;</td>
-  </tr>
+  </tr></tbody>
+  <tbody><tr>
+    <td align="center" height="50">&nbsp;🟥&nbsp;</td>
+    <td align="center">&nbsp;🟥&nbsp;</td>
+    <td align="center">&nbsp;🟩&nbsp;</td>
+    <td align="center">&nbsp;🟩&nbsp;</td>
+    <td align="center">&nbsp;🟩&nbsp;</td>
+    <td align="center">&nbsp;🟥&nbsp;</td>
+  </tr></tbody>
 </table>
 
 ### Logo Collection
