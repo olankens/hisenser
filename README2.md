@@ -7,7 +7,7 @@
   &nbsp;<p>Technology logo pack intended for very seamless integration into README.md files or visual assets such as LinkedIn banners, provided in both dark and light variants for optimal flexibility and consistency.</p>&nbsp;
 </td></tr></table>
 
-<table><tr><td align="center"><small>DONATION</small></td></tr><tr><td align="center" height="72" width="9999">
+<table><tr><td align="center" height="72" width="9999">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/github-sponsors-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/github-sponsors-light.png" align="center" width="48"/></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/1x1-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/1x1-light.png" align="center" height="48" width="1"/></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/paypal-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/paypal-light.png" align="center" width="48"/></picture>
