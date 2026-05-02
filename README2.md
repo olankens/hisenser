@@ -9,7 +9,7 @@
 
 <table ><tr><th>
 <h1>TEST</h1>
-<table><tr><td align="center" width="400">
+<table><tr><td align="center" width="9999">
 </td></tr></table>
 </th></tr></table>
 
