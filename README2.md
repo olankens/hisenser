@@ -1,4 +1,5 @@
 <table><tr><td align="center" height="72" width="9999">
+&nbsp;
 <div align="center">
   <p><img src="https://github.com/olankens/logobase/raw/HEAD/.github/assets/icon.svg" align="center" width="120"/></p>
   <h1>LOGOBASE</h1>
@@ -10,11 +11,12 @@
 [//]: # (</td></tr></table>)
 
 
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/github-sponsors-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/github-sponsors-light.png" align="center" width="48"/></picture>
+  <p><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/github-sponsors-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/github-sponsors-light.png" align="center" width="48"/></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/1x1-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/1x1-light.png" align="center" height="48" width="1"/></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/paypal-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/paypal-light.png" align="center" width="48"/></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/1x1-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/1x1-light.png" align="center" height="48" width="1"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/kofi-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/kofi-light.png" align="center" width="48"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/kofi-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/kofi-light.png" align="center" width="48"/></picture></p>
+  &nbsp;
 </td></tr></table>
 
 ### Logo Collection
