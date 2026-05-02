@@ -7,9 +7,9 @@
   &nbsp;<p>Technology logo pack intended for very seamless integration into README.md files or visual assets such as LinkedIn banners, provided in both dark and light variants for optimal flexibility and consistency.</p>&nbsp;
 </td></tr></table>
 
-<table ><tr><th>
+<table><tr><th width="100%">
 <h1>TEST</h1>
-<table><tr><td align="center" width="9999">
+<table><tr><td align="center">
 </td></tr></table>
 </th></tr></table>
 
