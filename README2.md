@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="9999">Cell</td>
-    <td width="9999">Nested Table
+    <td width="9999">
       <table>
         <tr>
           <td width="">Cell 1</td>
