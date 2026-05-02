@@ -4,7 +4,7 @@
     <td width="9999">Nested Table
       <table>
         <tr>
-          <td width="9999">Cell 1</td>
+          <td width="">Cell 1</td>
         </tr>
         <tr>
           <td>Cell 2</td>
