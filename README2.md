@@ -1,40 +1,18 @@
-<div align="center">
-  <p><img src="https://github.com/olankens/logobase/raw/HEAD/.github/assets/icon.svg" align="center" width="120"/></p>
-  <h1>LOGOBASE</h1>
-</div>
+[//]: # (<div align="center">)
+
+[//]: # (  <p><img src="https://github.com/olankens/logobase/raw/HEAD/.github/assets/icon.svg" align="center" width="128"/></p>)
+
+[//]: # (  <h1>LOGOBASE</h1>)
+
+[//]: # (</div>)
 
 <table><tr><td align="center" width="9999">
-  &nbsp;<p>Technology logo pack intended for very seamless integration into README.md files or visual assets such as LinkedIn banners, provided in both dark and light variants for optimal flexibility and consistency.</p>&nbsp;
+  &nbsp;<p><img src="https://github.com/olankens/logobase/raw/HEAD/.github/assets/icon.svg" align="center" width="128"/></p>
+  <h1>LOGOBASE</h1>
+  &nbsp;<p>
+    Technology logo pack intended for very seamless integration into README.md files or visual assets such as LinkedIn banners, provided in both dark and light variants for optimal flexibility and consistency.
+  </p>&nbsp;
 </td></tr></table>
-
-<table><tr><td align="center" height="72" width="9999">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/github-sponsors-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/github-sponsors-light.png" align="center" width="48"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/1x1-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/1x1-light.png" align="center" height="48" width="1"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/paypal-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/paypal-light.png" align="center" width="48"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/1x1-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/1x1-light.png" align="center" height="48" width="1"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/kofi-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/kofi-light.png" align="center" width="48"/></picture>
-</td></tr></table>
-
-### Platform Support
-
-<table>
-  <tbody><tr>
-    <th align="center" width="9999"><code>AND</code></th>
-    <th align="center" width="9999"><code>IOS</code></th>
-    <th align="center" width="9999"><code>LIN</code></th>
-    <th align="center" width="9999"><code>MAC</code></th>
-    <th align="center" width="9999"><code>WIN</code></th>
-    <th align="center" width="9999"><code>WEB</code></th>
-  </tr></tbody>
-  <tbody><tr>
-    <td align="center" height="72"><p>🟥</p></td>
-    <td align="center"><p>🟥</p></td>
-    <td align="center"><p>🟩</p></td>
-    <td align="center"><p>🟩</p></td>
-    <td align="center"><p>🟩</p></td>
-    <td align="center"><p>🟥</p></td>
-  </tr></tbody>
-</table>
 
 ### Logo Collection
 
