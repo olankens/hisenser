@@ -4,11 +4,11 @@
 </div>
 
 <table><tr><td align="center" height="72" width="9999">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/hisenser/raw/HEAD/.github/assets/mqtt-dark.png"><img src="https://github.com/olankens/hisenser/raw/HEAD/.github/assets/mqtt-light.png" align="center" width="48"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/hisenser/raw/HEAD/.github/assets/1x1-dark.png"><img src="https://github.com/olankens/hisenser/raw/HEAD/.github/assets/1x1-light.png" align="center" height="48" width="1"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/hisenser/raw/HEAD/.github/assets/python-dark.png"><img src="https://github.com/olankens/hisenser/raw/HEAD/.github/assets/python-light.png" align="center" width="48"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/hisenser/raw/HEAD/.github/assets/1x1-dark.png"><img src="https://github.com/olankens/hisenser/raw/HEAD/.github/assets/1x1-light.png" align="center" height="48" width="1"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/hisenser/raw/HEAD/.github/assets/pycharm-dark.png"><img src="https://github.com/olankens/hisenser/raw/HEAD/.github/assets/pycharm-light.png" align="center" width="48"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/github-sponsors-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/github-sponsors-light.png" align="center" width="48"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/1x1-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/1x1-light.png" align="center" height="48" width="1"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/polar-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/polar-light.png" align="center" width="48"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/1x1-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/1x1-light.png" align="center" height="48" width="1"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/kofi-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/kofi-light.png" align="center" width="48"/></picture>
 </td></tr></table>
 
 <table><tr><td align="center" width="9999">
