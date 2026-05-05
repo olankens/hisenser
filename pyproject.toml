@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "hisenser"
-version = "2.0.25"
+version = "2.0.45"
 description = "MQTT client for Hisense TVs"
 readme = "README2.md"
 

@@ -1,91 +1,63 @@
 <div align="center">
-  <p><img src="https://github.com/olankens/logobase/raw/HEAD/.github/assets/icon.svg" align="center" width="128"/></p>
-  <h1>LOGOBASE</h1>
+  <p><img src="https://github.com/olankens/readbase/raw/HEAD/assets/icon.svg" align="center" width="128"></p>
+  <h1>BACKEND</h1>
 </div>
+
+<table><tr><td align="center" height="72" width="9999">
+  <p align="center">
+    <a href="#">Website</a> ·
+    <a href="#">Documentation</a> ·
+    <a href="#">Support</a>
+  </p>
+</td></tr></table>
 
 <table><tr><td align="center" width="9999">
   &nbsp;<p>
-    Technology logo pack intended for very seamless integration into README.md files or visual assets such as LinkedIn banners, provided in both dark and light variants for optimal flexibility and consistency.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel molestie mauris. Mauris facilisis pellentesque tincidunt. Sed finibus nulla eu elit maximus euismod. Ut maximus risus libero turpis.
   </p>&nbsp;
 </td></tr></table>
 
-### Logo Collection
+<h3 align="center">ER Diagram</h3>
+<p><img src="https://github.com/olankens/readbase/raw/HEAD/assets/1024x416_5x2_light.png" align="center" width="100%"></p>
 
-<!-- START_TABLE -->
+<h3 align="center">OpenAPI Specifications</h3>
+<p><img src="https://github.com/olankens/readbase/raw/HEAD/assets/504x416_light.png" align="center" width="49.21875%"><img src="https://placehold.co/1x1/transparent/transparent/png" align=center width="1.5625%"/><img src="https://github.com/olankens/readbase/raw/HEAD/assets/504x416_light.png" align="center" width="49.21875%"></p>
+
+<h3 align="center">Project Services</h3>
 <table>
-  <tbody><tr>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/android-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/android-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/android-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/angular-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/angular-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/angular-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/apple-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/apple-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/apple-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/bash-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/bash-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/bash-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/buymeacoffee-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/buymeacoffee-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/buymeacoffee-light.png" align="center" width="64"/></picture></a></p></td>
-  </tr></tbody>
-  <tbody><tr>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/circle-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/circle-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/circle-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/docker-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/docker-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/docker-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/figma-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/figma-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/figma-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/flutter-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/flutter-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/flutter-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/github-actions-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/github-actions-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/github-actions-light.png" align="center" width="64"/></picture></a></p></td>
-  </tr></tbody>
-  <tbody><tr>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/github-sponsors-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/github-sponsors-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/github-sponsors-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/gradle-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/gradle-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/gradle-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/horizontal-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/horizontal-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/horizontal-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/intellij-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/intellij-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/intellij-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/ios-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/ios-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/ios-light.png" align="center" width="64"/></picture></a></p></td>
-  </tr></tbody>
-  <tbody><tr>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/kofi-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/kofi-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/kofi-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/markdown-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/markdown-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/markdown-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/mqtt-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/mqtt-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/mqtt-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/paypal-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/paypal-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/paypal-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/polar-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/polar-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/polar-light.png" align="center" width="64"/></picture></a></p></td>
-  </tr></tbody>
-  <tbody><tr>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/postgresql-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/postgresql-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/postgresql-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/pycharm-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/pycharm-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/pycharm-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/python-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/python-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/python-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/spring-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/spring-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/spring-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/square-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/square-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/square-light.png" align="center" width="64"/></picture></a></p></td>
-  </tr></tbody>
-  <tbody><tr>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/tmdb-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/tmdb-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/tmdb-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/vertical-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/vertical-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/vertical-light.png" align="center" width="64"/></picture></a></p></td>
-    <td align="center" width="9999"><p><a href="https://github.com/olankens/logobase/raw/HEAD/logos/windows-light.png"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/windows-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/windows-light.png" align="center" width="64"/></picture></a></p></td>
-  </tr></tbody>
+  <tr>
+    <td align="center" width="9999">
+      <p><img src="https://github.com/olankens/readbase/raw/HEAD/assets/114x114_light.png" align="center" width="48"></p>
+      <p>Authentication</p>
+    </td>
+    <td align="center" width="9999">
+      <p><img src="https://github.com/olankens/readbase/raw/HEAD/assets/114x114_light.png" align="center" width="48"></p>
+      <p>Notification</p>
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="9999">
+      <p><img src="https://github.com/olankens/readbase/raw/HEAD/assets/114x114_light.png" align="center" width="48"></p>
+      <p>Product</p>
+    </td>
+    <td align="center" width="9999">
+      <p><img src="https://github.com/olankens/readbase/raw/HEAD/assets/114x114_light.png" align="center" width="48"></p>
+      <p>Shipment</p>
+    </td>
+  </tr>
 </table>
-<!-- CEASE_TABLE -->
 
-### Create Markdown Banner
-
-#### 1. Banner Preview
-
-<table><tr><td align="center" height="72" width="9999">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/horizontal-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/horizontal-light.png" align="center" width="48"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/circle-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/circle-light.png" align="center" width="48"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/vertical-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/vertical-light.png" align="center" width="48"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/square-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/square-light.png" align="center" width="48"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/olankens/logobase/raw/HEAD/logos/horizontal-dark.png"><img src="https://github.com/olankens/logobase/raw/HEAD/logos/horizontal-light.png" align="center" width="48"/></picture>
-</td></tr></table>
-
-#### 2. Gather the Logos
-
-```shell
-deposit="images" && mkdir -p "$deposit"
-baseurl="https://github.com/olankens/logobase/raw/HEAD/logos"
-for f in {circle,horizontal,square,vertical}-{dark,light}; do
-  curl -Lo "$deposit/$f.png" "$baseurl/$f.png"
-done
+<h3 align="center">Opening IntelliJ IDEA</h3>
+```text
+idea .
 ```
 
-#### 3. Create the Banner
+<h3 align="center">Opening Visual Studio Code</h3>
+```text
+vscode .
+```
 
-```md
-<table><tr><td align="center" height="72" width="9999">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="images/horizontal-dark.png"><img src="images/horizontal-light.png" align="center" width="48"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="images/circle-dark.png"><img src="images/circle-light.png" align="center" width="48"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="images/vertical-dark.png"><img src="images/vertical-light.png" align="center" width="48"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="images/square-dark.png"><img src="images/square-light.png" align="center" width="48"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="images/horizontal-dark.png"><img src="images/horizontal-light.png" align="center" width="48"/></picture>
-</td></tr></table>
+<h3 align="center">Opening Zed</h3>
+```text
+zed .
 ```
